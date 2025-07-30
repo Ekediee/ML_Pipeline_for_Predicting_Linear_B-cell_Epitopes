@@ -126,7 +126,3 @@ jupyter notebook notebooks/Predicting_Linear_B-cell_Epitopes.ipynb
 Special thanks to the team behind **ESM-1b** embeddings and the creators of **CatBoost** and **Optuna**, which were instrumental to this project’s success.
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License. See `LICENSE` for more details.
